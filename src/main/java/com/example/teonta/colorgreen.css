@@ -1,0 +1,40 @@
+/* Set the background color of the root BorderPane to green */
+.root {
+    -fx-background-color: #66BB6A; /* Replace with your desired shade of green */
+}
+
+/* Customize the MenuBar */
+.menu-bar {
+    -fx-background-color: #66BB6A;
+}
+
+/* Customize labels */
+.label {
+    -fx-text-fill: white; /* Set label text color to white */
+}
+
+/* Customize ComboBox */
+.combo-box {
+    -fx-background-color: white; /* Set ComboBox background color to white */
+}
+
+/* Customize CheckBox */
+.check-box {
+    -fx-text-fill: white; /* Set CheckBox text color to white */
+}
+
+/* Customize TextField */
+.text-field {
+    -fx-background-color: white; /* Set TextField background color to white */
+}
+
+/* Customize Button */
+.button {
+    -fx-background-color: #388E3C; /* Set Button background color to green */
+    -fx-text-fill: white; /* Set Button text color to white */
+}
+
+/* Customize the summary VBox */
+.titled-pane > .content > .vbox {
+    -fx-background-color: #388E3C; /* Set summary VBox background color to green */
+}
